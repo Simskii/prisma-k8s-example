@@ -1,4 +1,4 @@
-# Primsa cluster on Kubernetes with TLS configuration and Let's encrypt
+# Primsa K8s cluster with optional TLS (Let's encrypt)
 
 This setup is supposed to be a starting point for people who couldn't get it to work or struggle to find the right configuration. Take it from here and configure it as needed, but don't use everything blindly in production, please.
 
